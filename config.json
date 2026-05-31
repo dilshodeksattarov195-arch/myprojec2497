@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersalidate",
+        "uuid": 11563607,
+        "checksum": "ajx8cp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
